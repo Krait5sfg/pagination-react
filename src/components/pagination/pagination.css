@@ -1,0 +1,24 @@
+.pagination {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.pagination__item {
+  width: 100px;
+}
+
+.pagination__link {
+  font-family: "Arial", "sans-serif";
+  text-decoration: none;
+  color: black;
+  font-size: 1.5em;
+}
+
+.pagination__link--active {
+  font-size: 2em;
+  color: blue;
+}

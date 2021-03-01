@@ -1,0 +1,13 @@
+.title {
+  font-family: "Arial", "sans-serif";
+  color: blue;
+  text-align: center;
+}
+
+.form {
+  margin: 20px;
+}
+
+.form__label {
+  margin-right: 20px;
+}
